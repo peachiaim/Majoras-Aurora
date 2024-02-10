@@ -14,7 +14,7 @@
 		<setters>
 			<set name="abbreviation">MM5E</set>
 			<set name="url">https://www.dandwiki.com/wiki/Hyrule_(5e_Campaign_Setting)#Campaign_Setting_Information/</set>
-			<set name="image">https://github.com/peachiaim/Majoras-Aurora/blob/9376e7f99ade26853f9ec0786d3959d7c0dcd0ef/Majora's_Mask_MM3D.png</set>
+			<set name="image">https://github.com/peachiaim/Majoras-Aurora/blob/main/majorasmask.jpg?raw=true</set>
 			<set name="author" abbreviation="WIKI" url="https://www.dandwiki.com/wiki/">Wiki</set>
 			<set name="Homebrew">true</set>
 		</setters>
