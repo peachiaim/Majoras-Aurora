@@ -12,20 +12,27 @@
 		<file name="source.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/mmsources.xml" />
 		
 		<!-- races -->
-		<file name="race-dragonborn.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/races/race-dragonborn.xml" />
+		<file name="race-placeholder.xml" url="https://raw.githubusercontent.com/placeholder1.xml" />
 
 		<!-- classes -->
+                <file name="placeholder.xml" url="https://raw.githubusercontent.com/placeholder2.xml" />
 
 		<!-- archetypes -->
-		<file name="barbarian-berserker.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/archetypes/barbarian-berserker.xml" />
+		<file name="placeholder.xml" url="https://raw.githubusercontent.com/placeholder3.xml" />
 
 		<!-- backgrounds -->		
-		<file name="background-acolyte.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/backgrounds/background-acolyte.xml" />
+		<file name="background-placeholder.xml" url="https://raw.githubusercontent.com/placeholder4.xml" />
 
 		<!-- items -->
-		<file name="items-armor.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/items/items-armor.xml" />
+		<file name="items-placeholder.xml" url="https://raw.githubusercontent.com/placeholder5.xml" />
+
+                <!-- masks -->
+		<file name="masks-placeholder.xml" url="https://raw.githubusercontent.com/placeholder6.xml" />
+
+                <!-- spells -->
+		<file name="masks-placeholder.xml" url="https://raw.githubusercontent.com/placeholder7.xml" />
 
 		<!-- misc -->
-		<file name="languages.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/languages.xml" />
+		<file name="languages.xml" url="https://raw.githubusercontent.com/placeholder8.xml" />
 	</files>
 </index>
