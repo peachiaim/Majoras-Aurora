@@ -9,7 +9,7 @@
 		</update>
 	</info>
 	<files>	
-		<file name="source.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/mmsources.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/mmsources.xml" />
 		
 		<!-- races -->
 		<file name="race-placeholder.xml" url="https://raw.githubusercontent.com/placeholder1.xml" />
