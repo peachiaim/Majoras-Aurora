@@ -9,17 +9,17 @@
 		</update>
 	</info>
 	<files>	
-		<file name="race-deku-scrub.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-deku-scrub.xml" />
+		<file name="mmsources.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/mmsources.xml" />
 		
 		<!-- races -->
 		<file name="race-deku-scrub.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-deku-scrub.xml" />
                 <file name="race-gerudo.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-gerudo.xml" />
 		<file name="race-goron.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-goron.xml" />
                 <file name="race-hylian.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-hylian.xml" />
-		<file name="race-deku-scrub.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-deku-scrub.xml" />
-                <file name="race-deku-scrub.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-deku-scrub.xml" />
-		<file name="race-deku-scrub.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-deku-scrub.xml" />
-                <file name="race-deku-scrub.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-deku-scrub.xml" />
+		<file name="race-kokiri.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-kokiri.xml" />
+                <file name="race-rito.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-rito.xml" />
+		<file name="race-skull-kid.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-skull-kid.xml" />
+                <file name="race-zora.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-zora.xml" />
 
 		<!-- classes -->
                 <file name="placeholder.xml" url="https://raw.githubusercontent.com/placeholder2.xml" />
