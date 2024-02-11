@@ -9,10 +9,17 @@
 		</update>
 	</info>
 	<files>	
-		<file name="source.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/mmsources.xml" />
+		<file name="race-deku-scrub.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-deku-scrub.xml" />
 		
 		<!-- races -->
-		<file name="race-placeholder.xml" url="https://raw.githubusercontent.com/placeholder1.xml" />
+		<file name="race-deku-scrub.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-deku-scrub.xml" />
+                <file name="race-gerudo.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-gerudo.xml" />
+		<file name="race-goron.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-goron.xml" />
+                <file name="race-hylian.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-hylian.xml" />
+		<file name="race-deku-scrub.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-deku-scrub.xml" />
+                <file name="race-deku-scrub.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-deku-scrub.xml" />
+		<file name="race-deku-scrub.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-deku-scrub.xml" />
+                <file name="race-deku-scrub.xml" url="https://raw.githubusercontent.com/peachiaim/Majoras-Aurora/main/majoras-mask/races/race-deku-scrub.xml" />
 
 		<!-- classes -->
                 <file name="placeholder.xml" url="https://raw.githubusercontent.com/placeholder2.xml" />
